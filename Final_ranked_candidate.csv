@@ -1,0 +1,101 @@
+Rank,candidate id,score,Reasoning
+1,CAND_0081846,0.6494259834289551,Lead AI Engineer| 6.7 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 5 retrival skillls| Advanced in 1 retrival skills
+2,CAND_0002025,0.6241093277931213,Senior AI Engineer| 5.9 yrs| Expert Core AI with 3 skills| Expert in 2 retrival skillls| Advanced in 2 retrival skills
+3,CAND_0088025,0.61884605884552,Staff Machine Learning Engineer| 8.6 yrs| Expert Core AI with 4 skills| Advanced Core AI with 1 skills| Expert in 3 retrival skillls| Advanced in 1 retrival skills
+4,CAND_0077337,0.6094281673431396,Staff Machine Learning Engineer| 7.0 yrs| Expert Core AI with 3 skills| Expert in 2 retrival skillls| Advanced in 2 retrival skills
+5,CAND_0046525,0.6069321632385254,Senior Machine Learning Engineer| 6.1 yrs| Expert Core AI with 1 skills| Advanced Core AI with 2 skills| Expert in 1 retrival skillls| Advanced in 1 retrival skills
+6,CAND_0086022,0.6049847602844238,Senior Applied Scientist| 5.3 yrs| Expert Core AI with 1 skills| Advanced Core AI with 2 skills| Expert in 1 retrival skillls| Advanced in 2 retrival skills
+7,CAND_0071974,0.6037335991859436,Senior AI Engineer| 7.8 yrs| Advanced Core AI with 2 skills| Expert in 5 retrival skillls| Advanced in 1 retrival skills
+8,CAND_0008425,0.6032798886299133,Senior NLP Engineer| 7.8 yrs| Expert Core AI with 3 skills| Expert in 3 retrival skillls| Advanced in 1 retrival skills
+9,CAND_0018499,0.599891722202301,Senior Machine Learning Engineer| 7.2 yrs| Expert Core AI with 3 skills| Expert in 2 retrival skillls| Advanced in 2 retrival skills
+10,CAND_0005260,0.5994543433189392,Senior NLP Engineer| 5.2 yrs| Expert Core AI with 2 skills| Advanced Core AI with 2 skills| Expert in 1 retrival skillls| Advanced in 1 retrival skills
+11,CAND_0094759,0.5990743041038513,Lead AI Engineer| 8.6 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 4 retrival skillls| Advanced in 2 retrival skills
+12,CAND_0033861,0.5968690514564514,Senior NLP Engineer| 8.0 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 5 retrival skillls| Advanced in 2 retrival skills
+13,CAND_0046064,0.596486508846283,Senior NLP Engineer| 8.9 yrs| Advanced Core AI with 1 skills| Expert in 4 retrival skillls| Advanced in 1 retrival skills
+14,CAND_0078492,0.5931819081306458,Recommendation Systems Engineer| 5.1 yrs| Expert Core AI with 3 skills| Advanced Core AI with 1 skills| Expert in 4 retrival skillls| Advanced in 1 retrival skills
+15,CAND_0055905,0.5920495390892029,Senior Machine Learning Engineer| 8.1 yrs| Advanced Core AI with 2 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+16,CAND_0041568,0.5906767845153809,Search Engineer| 5.2 yrs| Expert Core AI with 1 skills| Advanced Core AI with 2 skills| Expert in 5 retrival skillls| Advanced in 1 retrival skills
+17,CAND_0060072,0.5899997353553772,Staff Machine Learning Engineer| 5.7 yrs| Expert Core AI with 1 skills| Advanced Core AI with 3 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+18,CAND_0078002,0.5890686511993408,Machine Learning Engineer| 6.3 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 1 retrival skillls| Advanced in 1 retrival skills
+19,CAND_0050454,0.5889831185340881,AI Engineer| 6.8 yrs| Expert Core AI with 2 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+20,CAND_0006567,0.5879466533660889,Senior AI Engineer| 7.9 yrs| Advanced Core AI with 2 skills| Expert in 2 retrival skillls
+21,CAND_0098846,0.5877156853675842,AI Engineer| 7.6 yrs| Expert Core AI with 3 skills| Expert in 1 retrival skillls| Advanced in 1 retrival skills
+22,CAND_0014063,0.5870958566665649,AI Specialist| 5.4 yrs| Advanced Core AI with 1 skills| Advanced in 3 retrival skills
+23,CAND_0058575,0.5860474705696106,AI Engineer| 5.8 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 1 retrival skillls
+24,CAND_0042029,0.5856449604034424,Senior Data Scientist| 6.5 yrs| Expert Core AI with 3 skills| Advanced Core AI with 1 skills| Expert in 1 retrival skillls| Advanced in 3 retrival skills
+25,CAND_0062247,0.5850851535797119,AI Engineer| 7.3 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 4 retrival skillls| Advanced in 1 retrival skills
+26,CAND_0059795,0.5840256214141846,Senior Software Engineer (ML)| 5.6 yrs| Advanced Core AI with 2 skills
+27,CAND_0005649,0.58387291431427,Senior Data Scientist| 7.4 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 3 retrival skillls
+28,CAND_0015578,0.581098198890686,AI Engineer| 5.4 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+29,CAND_0024620,0.5793785452842712,AI Engineer| 5.9 yrs| Advanced Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 2 retrival skills
+30,CAND_0041611,0.5790349245071411,Staff Machine Learning Engineer| 6.4 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+31,CAND_0083307,0.5782745480537415,Search Engineer| 7.8 yrs| Expert Core AI with 1 skills| Expert in 3 retrival skillls| Advanced in 2 retrival skills
+32,CAND_0065195,0.5777500867843628,Search Engineer| 5.1 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+33,CAND_0069905,0.5777250528335571,Applied ML Engineer| 6.6 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 2 retrival skillls
+34,CAND_0068351,0.5775833129882812,Lead AI Engineer| 6.4 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 3 retrival skillls
+35,CAND_0064326,0.5774745345115662,Search Engineer| 7.6 yrs| Expert Core AI with 2 skills| Expert in 1 retrival skillls| Advanced in 2 retrival skills
+36,CAND_0075574,0.5772403478622437,Machine Learning Engineer| 5.7 yrs| Advanced Core AI with 2 skills| Expert in 4 retrival skillls| Advanced in 1 retrival skills
+37,CAND_0006418,0.5767045617103577,Machine Learning Engineer| 5.7 yrs| Expert in 4 retrival skillls| Advanced in 1 retrival skills
+38,CAND_0043860,0.5756332278251648,Junior ML Engineer| 6.1 yrs| Advanced in 1 retrival skills
+39,CAND_0098454,0.5726968050003052,AI Specialist| 6.6 yrs| Advanced in 1 retrival skills
+40,CAND_0011687,0.5726205110549927,Senior NLP Engineer| 7.8 yrs| Expert in 1 retrival skillls| Advanced in 2 retrival skills
+41,CAND_0041918,0.572455883026123,AI Specialist| 5.7 yrs| Intermediate AI/ML skill exposure
+42,CAND_0096104,0.5722919702529907,AI Specialist| 7.0 yrs| Intermediate AI/ML skill exposure
+43,CAND_0044222,0.5720816254615784,AI Engineer| 7.7 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Advanced in 4 retrival skills
+44,CAND_0018722,0.5718416571617126,Recommendation Systems Engineer| 6.6 yrs| Expert Core AI with 1 skills| Advanced Core AI with 2 skills| Expert in 1 retrival skillls
+45,CAND_0099806,0.5709409117698669,AI Engineer| 4.6 yrs| Advanced Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 3 retrival skills
+46,CAND_0015967,0.5705918669700623,Senior Software Engineer (ML)| 5.4 yrs| Advanced Core AI with 2 skills
+47,CAND_0049978,0.5705360174179077,Senior Software Engineer (ML)| 6.6 yrs| Advanced Core AI with 1 skills
+48,CAND_0093193,0.5694179534912109,Senior Machine Learning Engineer| 7.9 yrs| Advanced Core AI with 1 skills| Expert in 1 retrival skillls| Advanced in 1 retrival skills
+49,CAND_0053591,0.5693712830543518,AI Engineer| 5.3 yrs| Advanced Core AI with 1 skills| Expert in 1 retrival skillls| Advanced in 1 retrival skills
+50,CAND_0074735,0.5692223310470581,Applied ML Engineer| 5.5 yrs| Expert Core AI with 2 skills| Expert in 2 retrival skillls| Advanced in 3 retrival skills
+51,CAND_0081852,0.5690058469772339,Senior Data Scientist| 5.9 yrs| Expert in 3 retrival skillls| Advanced in 1 retrival skills
+52,CAND_0070398,0.5681938529014587,Machine Learning Engineer| 7.2 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 3 retrival skillls
+53,CAND_0044855,0.5681319236755371,Senior Data Scientist| 6.6 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 3 retrival skillls| Advanced in 1 retrival skills
+54,CAND_0080766,0.5673701167106628,Staff Machine Learning Engineer| 8.8 yrs| Expert Core AI with 1 skills| Advanced in 1 retrival skills
+55,CAND_0007412,0.5671229958534241,Applied ML Engineer| 7.4 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 2 retrival skillls
+56,CAND_0007052,0.5669663548469543,ML Engineer| 6.5 yrs| Advanced Core AI with 2 skills| Advanced in 3 retrival skills
+57,CAND_0060054,0.5665118098258972,AI Engineer| 6.4 yrs| Expert Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 2 retrival skills
+58,CAND_0077261,0.5656536817550659,AI Specialist| 5.7 yrs| Advanced Core AI with 1 skills| Advanced in 1 retrival skills
+59,CAND_0053605,0.5651730298995972,Senior Software Engineer (ML)| 6.9 yrs| Advanced Core AI with 1 skills| Advanced in 1 retrival skills
+60,CAND_0045141,0.5647541284561157,Data Scientist| 5.3 yrs| Advanced Core AI with 2 skills| Advanced in 3 retrival skills
+61,CAND_0094292,0.564651370048523,AI Specialist| 6.5 yrs| Advanced Core AI with 1 skills
+62,CAND_0093912,0.5644546151161194,Senior Data Scientist| 5.3 yrs| Advanced Core AI with 1 skills| Expert in 3 retrival skillls| Advanced in 1 retrival skills
+63,CAND_0052335,0.5643268823623657,Applied ML Engineer| 6.4 yrs| Expert Core AI with 2 skills| Expert in 1 retrival skillls| Advanced in 1 retrival skills
+64,CAND_0029439,0.5641027688980103,AI Specialist| 6.4 yrs| Advanced in 1 retrival skills
+65,CAND_0079064,0.5640538930892944,Senior Data Scientist| 5.2 yrs| Advanced Core AI with 2 skills| Expert in 2 retrival skillls
+66,CAND_0092278,0.5639329552650452,Senior NLP Engineer| 6.8 yrs| Expert Core AI with 4 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+67,CAND_0007567,0.5630833506584167,AI Specialist| 6.1 yrs| Intermediate AI/ML skill exposure
+68,CAND_0030827,0.5627377033233643,Senior Data Scientist| 5.4 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Expert in 4 retrival skillls| Advanced in 1 retrival skills
+69,CAND_0029367,0.5627028942108154,Senior Data Scientist| 5.7 yrs| Expert Core AI with 3 skills| Expert in 2 retrival skillls| Advanced in 2 retrival skills
+70,CAND_0043676,0.5622990727424622,Senior Software Engineer (ML)| 6.1 yrs| Intermediate AI/ML skill exposure
+71,CAND_0007411,0.5622324347496033,Senior Machine Learning Engineer| 8.0 yrs| Advanced Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 2 retrival skills
+72,CAND_0039754,0.5615206956863403,Senior Applied Scientist| 16.2 yrs| Expert Core AI with 3 skills| Advanced Core AI with 1 skills| Expert in 3 retrival skillls| Advanced in 1 retrival skills
+73,CAND_0018013,0.561206042766571,AI Specialist| 6.7 yrs| Intermediate AI/ML skill exposure
+74,CAND_0042100,0.5610502362251282,Machine Learning Engineer| 7.3 yrs| Expert Core AI with 2 skills| Expert in 3 retrival skillls| Advanced in 1 retrival skills
+75,CAND_0081321,0.5609607696533203,Senior Software Engineer (ML)| 5.3 yrs| Advanced in 1 retrival skills
+76,CAND_0076251,0.5609045624732971,Search Engineer| 7.6 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 1 retrival skillls| Advanced in 3 retrival skills
+77,CAND_0058688,0.5608333349227905,AI Engineer| 6.7 yrs| Expert Core AI with 1 skills| Expert in 1 retrival skillls
+78,CAND_0045250,0.5599496364593506,Applied ML Engineer| 6.6 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 3 retrival skillls
+79,CAND_0024878,0.559497594833374,AI Specialist| 5.7 yrs| Intermediate AI/ML skill exposure
+80,CAND_0042506,0.5592892169952393,Search Engineer| 4.2 yrs| Expert Core AI with 2 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+81,CAND_0066035,0.5592159032821655,Data Scientist| 6.7 yrs| Advanced Core AI with 1 skills| Advanced in 2 retrival skills
+82,CAND_0044883,0.5591534376144409,AI Engineer| 6.3 yrs| Expert Core AI with 1 skills| Expert in 2 retrival skillls
+83,CAND_0087630,0.5591302514076233,AI Engineer| 7.2 yrs| Expert Core AI with 2 skills| Advanced Core AI with 1 skills| Advanced in 3 retrival skills
+84,CAND_0037566,0.5591045022010803,Machine Learning Engineer| 6.9 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 1 retrival skills
+85,CAND_0024466,0.558736264705658,Search Engineer| 5.2 yrs| Advanced Core AI with 3 skills| Expert in 2 retrival skillls
+86,CAND_0026505,0.5583661198616028,Senior Software Engineer| 5.3 yrs| Intermediate AI/ML skill exposure
+87,CAND_0065396,0.5579800009727478,AI Specialist| 6.0 yrs| Advanced Core AI with 1 skills| Advanced in 1 retrival skills
+88,CAND_0037980,0.5576485395431519,Senior Applied Scientist| 9.0 yrs| Expert Core AI with 1 skills| Advanced Core AI with 1 skills| Expert in 2 retrival skillls
+89,CAND_0081086,0.5575394630432129,AI Specialist| 5.2 yrs| Advanced in 1 retrival skills
+90,CAND_0031829,0.5572479367256165,Senior Software Engineer| 6.5 yrs| Advanced in 1 retrival skills
+91,CAND_0060315,0.5564071536064148,Senior Software Engineer (ML)| 5.4 yrs| Advanced in 2 retrival skills
+92,CAND_0020350,0.5559678673744202,AI Engineer| 5.8 yrs| Expert Core AI with 2 skills| Expert in 1 retrival skillls| Advanced in 2 retrival skills
+93,CAND_0072688,0.5559306144714355,Data Scientist| 6.9 yrs| Advanced Core AI with 1 skills| Advanced in 1 retrival skills
+94,CAND_0005191,0.555216372013092,AI Specialist| 6.2 yrs| Advanced Core AI with 1 skills
+95,CAND_0082913,0.5551880598068237,Senior Software Engineer (ML)| 5.5 yrs| Advanced Core AI with 1 skills| Advanced in 1 retrival skills
+96,CAND_0077956,0.5551445484161377,Computer Vision Engineer| 6.4 yrs| Advanced Core AI with 1 skills| Advanced in 1 retrival skills
+97,CAND_0088438,0.554766058921814,Senior Software Engineer (ML)| 6.6 yrs| Advanced Core AI with 1 skills| Advanced in 2 retrival skills
+98,CAND_0070525,0.554358959197998,Senior Software Engineer (ML)| 5.4 yrs| Advanced Core AI with 2 skills
+99,CAND_0008239,0.5543145537376404,AI Engineer| 4.0 yrs| Advanced Core AI with 1 skills| Expert in 2 retrival skillls| Advanced in 3 retrival skills
+100,CAND_0005538,0.554300844669342,Senior AI Engineer| 5.9 yrs| Expert Core AI with 1 skills| Expert in 1 retrival skillls

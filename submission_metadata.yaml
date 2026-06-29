@@ -1,0 +1,60 @@
+# My project metadata file 
+
+
+# Team identity
+team_name: "CODER_KESHAV"  
+
+primary_contact:
+  name: "Keshav Awasthi"
+  email: "awasthikeshav87@gmail.com"   
+  phone: "+91-9026996843"        
+
+team_members:
+  - name: "Keshav Awasthi"
+    email: "awasthikeshav87@gmail.com"
+    role: "Complete Developer"          
+
+# Code and reproducibility
+github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+
+reproduce_command: "python main.py"
+
+
+# Compute environment
+compute:
+  platform: "Local windows 10pro laptop"      
+  cpu_cores: 2                  
+  ram_gb: 8                     
+  python_version: "3.14.5"      
+  os: "windows 10pro"           
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false            
+  pre_computation_required: true               
+  pre_computation_time_minutes: 0               
+
+# AI tools declaration
+ai_tools_used:
+  - "ChatGPT"        
+
+ai_usage_summary: |
+  AI tool is used only as assistant in following operations.
+  - "For understanding about useful technology and process"
+  - "Debugging and error detection"
+  - "Taking help in making good UI"
+  - "README creation"
+  
+
+
+# Approach summary
+methodology_summary: |
+  "The ranking pipeline begins by converting the job description into structured text. Candidate profiles from the JSONL dataset are first filtered using technical job titles to reduce the search space and improve ranking efficiency. The filtered candidate profiles are then converted into text, and their embeddings are precomputed using the locally hosted SentenceTransformer (all-MiniLM-L6-v2) model and stored as a NumPy (.npy) file. During ranking, only the job description embedding is generated, and cosine similarity is computed against the precomputed candidate embeddings to obtain the semantic score. Additional rule-based scores are calculated from structured profile information, including experience, skills, and Redrob platform signals. These weighted components are combined into a final ranking score for every candidate. Candidates are sorted in descending order, personalized reasoning is generated based on their profile attributes, and the top 100 candidates are exported as the final submission CSV. The complete ranking pipeline runs locally on a CPU without external API calls during inference, meeting the hackathon's runtime and compute constraints."
+
+# Declarations
+declarations:
+  read_submission_spec: true        
+  code_is_original_work: true       
+  no_collusion: true                
+  honeypot_check_done: false    
+  reproduction_tested: true       
