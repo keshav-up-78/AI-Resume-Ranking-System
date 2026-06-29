@@ -55,8 +55,8 @@ An AI-powered resume ranking system developed for Redrob AI hackathon. This syst
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd AI-Resume-Ranking System
+git clone https://github.com/keshav-up-78/AI-Resume-Ranking-System.git
+cd AI-Resume-Ranking-System
 ```
 
 Install dependencies:
@@ -83,6 +83,9 @@ Or if only for run main file:
 python main.py
 ```
 
+**Live Demo**
+
+Follow this link to see app: https://ai-resume-ranking-system-project.streamlit.app/
 
 ## ## ⚙️ Tech Stack
 

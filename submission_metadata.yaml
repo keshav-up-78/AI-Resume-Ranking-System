@@ -15,9 +15,9 @@ team_members:
     role: "Complete Developer"          
 
 # Code and reproducibility
-github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+github_repo: "https://github.com/keshav-up-78/AI-Resume-Ranking-System"
 
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://ai-resume-ranking-system-project.streamlit.app/"
 
 reproduce_command: "python main.py"
 
