@@ -6,4 +6,3 @@ sentence-transformers
 python-docx
 torch
 transformers
-time
